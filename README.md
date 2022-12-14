@@ -50,4 +50,4 @@ In the ``Images`` folder, there are multiple Portable Grey Map (PGM) files that 
 
 ### References:
 
-* M. Reynolds, Maxwellreynolds/quadtree-image-program: A "compressor" for images using the Quadtree data structure (with C++ and opencv), GitHub. (2019). https://github.com/maxwellreynolds/Quadtree-Image-Program (accessed December 15, 2022).
+* M. Reynolds, Quadtree-Image-Program: A "compressor" for images using the Quadtree data structure (with C++ and opencv), GitHub. (2019). https://github.com/maxwellreynolds/Quadtree-Image-Program (accessed December 15, 2022).
