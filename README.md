@@ -2,8 +2,6 @@
 
 This repository is a collection of fundamental digital image processing operations and algorithms performed on greyscale images, or Portable Grey Map (PGM) files, using different data structures in C++, as part of an assignment and final project module for the Data Structures (CS2001) course.
 
-
-
 ## Introduction:
 
 Digital image processing (or image processing) uses a digital computer to process digital images through an algorithm. As a subcategory or field of digital signal processing, digital image processing has many advantages over analogue image processing. It allows a much wider range of algorithms to be applied to the input data and can avoid problems such as the build-up of noise and distortion during processing. Since images are defined over two dimensions (perhaps more), digital image processing may be modelled as a multidimensional system.
